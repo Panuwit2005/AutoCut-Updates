@@ -1,0 +1,7 @@
+{
+  "version": "1.31",
+  "zip": "update-1.31.zip",
+  "sha256": "f41b97a35ad4995460db729d9893e587fa507d75e763dcdbd3b80631cd822f13",
+  "sig": "8E4uAkfs3HhPUFqjFfo5f6us6xN2DQAllqJkM0LZ8nouxMXiB68YTTIFgz93tmbYX3r2ISlv8pneZi66dsSiDA==",
+  "notes": "แก้ปัญหาโมเดล Gemini ที่ถูกปิด (gemini-2.5-flash 404) — สลับไปใช้ gemini-flash-latest + fallback อัตโนมัติ ให้ AI กลับมาใช้งานได้"
+}
