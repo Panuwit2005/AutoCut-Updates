@@ -1,7 +1,7 @@
 {
-  "version": "1.33",
-  "zip": "update-1.33.zip",
-  "sha256": "00da0672bbb280901650e81cadbf11d2b9ccc823dc3e22d4b7b1cfa022a47be6",
-  "sig": "8ZU5hZvVDWgE6UeDIzIHjBXulZ6q2F8Snu+fuacrWhoZxfsQKt0pISvz/Ft+c5MLSu9hsMhKJzJN/po9LQC0AQ==",
-  "notes": "แก้อาการแจ้งเตือนอัปเดตขึ้นซ้ำไม่หยุดหลังอัปเดต และเพิ่มปุ่ม \"นำบทพูดไปทำซับ\" ในแท็บเสียงพากย์ (เปลี่ยนบทในกล่องเป็นซับได้ทันที)"
+  "version": "1.34",
+  "zip": "update-1.34.zip",
+  "sha256": "b3af1e45cf7f76fba5da282598440ef11605b0ae4fbe541e7b5277a26b0185ae",
+  "sig": "+Jre97dFuO1B0KtvlTMjvWWpdGuNWrT16NuCa282GxCvRgG/ZJJxn8PQSBIdgKNucaCkQIOeR8PyOIaoCItrDA==",
+  "notes": "แก้ปัญหาให้ AI ร่างบท/สร้างเสียงล้มบ่อยตอนคนใช้เยอะ (ระบบลองซ้ำให้อัตโนมัติ) และปุ่ม \"นำบทไปทำซับ\" ย้ายมาถามหลังสร้างเสียงพากย์ + จับเวลาซับให้ตรงกับเสียง"
 }
