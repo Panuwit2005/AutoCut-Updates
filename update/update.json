@@ -1,7 +1,7 @@
 {
-  "version": "1.35",
-  "zip": "update-1.35.zip",
-  "sha256": "06818b1f29a07fcbc5abdbc5ee916b42090a6f6722c6d8deb4b7af37e307898a",
-  "sig": "9PraQnlZMRWZ8vVCAJ+uO5La7TVa678iC2Khl2QwkoqCZ4+2SXTwJjJ02loB2E1hrsxL2j4cggZFp0/EJyMZCA==",
-  "notes": "ปรับปรุงความปลอดภัยภายในของโปรแกรม และแก้ข้อความหน้าเปิดใช้งานให้ตรงกับแพ็คเกจรายปี"
+  "version": "1.36",
+  "zip": "update-1.36.zip",
+  "sha256": "8f4498e5a8f75a23de3f470f943137432328bdca1c54552aee86110d8a10b76c",
+  "sig": "TmJii2HCV9GDnoxzc9MwZt4fVhKT2eqnomU0RhYaXgj55ZH+nIsVt5YenGF1qIGuAxHfwyWmdS50Zouo39WECQ==",
+  "notes": "แก้ปัญหา AI ล้มบ่อยตอน \"โมเดลไม่ว่าง\" (คนใช้เยอะ) — ระบบสลับไปใช้โมเดลสำรองที่ว่างให้อัตโนมัติ ทั้งตอนทดสอบคีย์ ให้ AI ร่างบท และทำซับ"
 }
