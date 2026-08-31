@@ -1,7 +1,7 @@
 {
-  "version": "1.36",
-  "zip": "update-1.36.zip",
-  "sha256": "8f4498e5a8f75a23de3f470f943137432328bdca1c54552aee86110d8a10b76c",
-  "sig": "TmJii2HCV9GDnoxzc9MwZt4fVhKT2eqnomU0RhYaXgj55ZH+nIsVt5YenGF1qIGuAxHfwyWmdS50Zouo39WECQ==",
-  "notes": "แก้ปัญหา AI ล้มบ่อยตอน \"โมเดลไม่ว่าง\" (คนใช้เยอะ) — ระบบสลับไปใช้โมเดลสำรองที่ว่างให้อัตโนมัติ ทั้งตอนทดสอบคีย์ ให้ AI ร่างบท และทำซับ"
+  "version": "1.37",
+  "zip": "update-1.37.zip",
+  "sha256": "5abd611cce6e433651754e3b14804d67fac14739440e3e1a3ca89612bcda0dac",
+  "sig": "22vEQ2gp6Z+rkT15cAxJjlXwR+ZkaDSbM8ZQIO9bmolVtZzchS9EjxjeLE2xhANq5iXNCqaN8eSGkO/kfDpvDg==",
+  "notes": "ปรับให้ AI กลับไปใช้โมเดลที่ดีที่สุดอัตโนมัติหลังช่วง \"คนใช้เยอะ\" ผ่านไป (สลับโมเดลชั่วคราวไม่ค้างทั้งครั้ง)"
 }
