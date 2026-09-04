@@ -1,7 +1,7 @@
 {
-  "version": "1.38",
-  "zip": "update-1.38.zip",
-  "sha256": "b4623fb456b66e4cf770a4cb46eae78a05d10ca149e9ed35806e68a8fb0f4c0f",
-  "sig": "TAzzYt8g+llW6eWafhxzuZBGrBWWbIt4wYj4/npSxCQlQwr5wm6gMaHA3/V/4hSiVTxMwgRbYvF6112KVbzxBw==",
-  "notes": "ทำให้ซับตรงกับเสียงมากขึ้น (จับเวลาด้วย Whisper) และแก้ซับยาวตกบรรทัด/ล้นจอ และปุ่ม \"ทดสอบ\" คีย์ AI บอกสาเหตุจริงเวลาใช้ไม่ได้"
+  "version": "1.39",
+  "zip": "update-1.39.zip",
+  "sha256": "e66403d6b05b1fa3a347a5bb759c058adb655a01f417138531cb14363fb3c852",
+  "sig": "PXUJqMgHEAjdxLj6hAlpe9ithQc/Zy0YNH5ZEWS+DQ3a9MKrXMaE3PaRmKACy9EGrxMaQhV3XQVNR2fmBtGNBw==",
+  "notes": "เร็วขึ้น: ถอดเสียงเป็นซับ/บทพูดไวขึ้นมาก (เอาขั้นตอนจับเวลาซ้ำด้วย Whisper ออก) · แก้บั๊กฟอนต์/สไตล์ซับที่เปลี่ยนในพรีวิวแต่ไม่เปลี่ยนตอน Export · กันคำไทยถูกตัดคนละบรรทัด · ตอนให้ AI ร่างบทมีแถบแสดงความคืบหน้า"
 }
