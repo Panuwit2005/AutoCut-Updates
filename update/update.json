@@ -1,7 +1,7 @@
 {
-  "version": "1.37",
-  "zip": "update-1.37.zip",
-  "sha256": "5abd611cce6e433651754e3b14804d67fac14739440e3e1a3ca89612bcda0dac",
-  "sig": "22vEQ2gp6Z+rkT15cAxJjlXwR+ZkaDSbM8ZQIO9bmolVtZzchS9EjxjeLE2xhANq5iXNCqaN8eSGkO/kfDpvDg==",
-  "notes": "ปรับให้ AI กลับไปใช้โมเดลที่ดีที่สุดอัตโนมัติหลังช่วง \"คนใช้เยอะ\" ผ่านไป (สลับโมเดลชั่วคราวไม่ค้างทั้งครั้ง)"
+  "version": "1.38",
+  "zip": "update-1.38.zip",
+  "sha256": "b4623fb456b66e4cf770a4cb46eae78a05d10ca149e9ed35806e68a8fb0f4c0f",
+  "sig": "TAzzYt8g+llW6eWafhxzuZBGrBWWbIt4wYj4/npSxCQlQwr5wm6gMaHA3/V/4hSiVTxMwgRbYvF6112KVbzxBw==",
+  "notes": "ทำให้ซับตรงกับเสียงมากขึ้น (จับเวลาด้วย Whisper) และแก้ซับยาวตกบรรทัด/ล้นจอ และปุ่ม \"ทดสอบ\" คีย์ AI บอกสาเหตุจริงเวลาใช้ไม่ได้"
 }
