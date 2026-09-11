@@ -1,7 +1,7 @@
 {
-  "version": "1.42",
-  "zip": "update-1.42.zip",
-  "sha256": "1e4d1a4aff7959476885a244f6d72239afc23b411347fbed6a35795c2dcb1721",
-  "sig": "NHFSSsi0f9wvonf+xJuuO0hRSdBBsyA+YVUXouRQdoQPUo4xQWumnesTaTY2FBeXLVIjA66O7+gpcJLfEiQsAA==",
-  "notes": "ซับที่ได้จาก AI (ถอดเสียง/ร่างบท) ตัดคำไทยตรงตามคำ ไม่แยกคำคนละบรรทัดอีก เช่น \"ด้านล่าง\" / \"สั่งเลย\" จะอยู่ครบทั้งคำ (เพิ่มตัวแบ่งคำไทยไว้ในแอป)"
+  "version": "1.43",
+  "zip": "update-1.43.zip",
+  "sha256": "4295c36463de13f7bf7deab085caef362ee4a45895297f2777b115faaac68a22",
+  "sig": "fdWPvaq34fjuXpmov46WEXGT7gPqx6EyMVL0tW8iHwv6RYIdw7ernW+cGH/OgtpyBEA+PdgZNpE/YWRqShiOBQ==",
+  "notes": "ฟอนต์ซับทุกตัวเดินทางมากับอัปเดตแล้ว — แก้กรณีเปลี่ยนฟอนต์แล้ว พรีวิวเปลี่ยนแต่ตอน Export ไม่เปลี่ยน (เครื่องที่ติดตั้งเวอร์ชันเก่ามาก อาจไม่มีไฟล์ฟอนต์ครบ ตอนนี้อัปเดตแล้วได้ครบทุกฟอนต์)"
 }
