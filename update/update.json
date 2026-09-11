@@ -1,7 +1,7 @@
 {
-  "version": "1.40",
-  "zip": "update-1.40.zip",
-  "sha256": "73db7a39ae47f4aa93aa950c45b8d8f24fe6b8c8bde79a6ca21953dca6117f25",
-  "sig": "poCM6ehzZPmPCCpR+ATGnWbylp/QFg3FnASIgaM5eMHoxg5dfEpVx2Dc8sZCj8Y96KUG5lGsM5Go4s00gS4tCw==",
-  "notes": "แก้ซับตอน Export ให้ตัดบรรทัดตรงกับที่เห็นในพรีวิว — ไม่ตัดกลางคำ และไม่ทิ้งสระ/วรรณยุกต์ค้างต้นบรรทัดอีก (คำภาษาไทยอยู่ครบทั้งคำ) ถ้าซับยาวเกินนิดเดียวจะย่อให้พอดี 1 บรรทัดแทนการตัด"
+  "version": "1.41",
+  "zip": "update-1.41.zip",
+  "sha256": "35e62d0b61780d59b363b23506f31523b5574bf0c909de0e9e6ccb61a0e465e2",
+  "sig": "o6hsOb9WZ/XvY89Y6n3XEf5gMEVs7rTvpH9oO1Xh0F5gKO4en/FokXWa8MEbPjz3bPENM9NTWyaZ2WqhwoLcCA==",
+  "notes": "ซับบรรทัดยาวอยู่บรรทัดเดียว ไม่ตกบรรทัด/ไม่ตัดกลางคำ (ย่อขนาดให้พอดีจออัตโนมัติ) และตอน \"ให้ AI ร่างบท/สร้างเสียง\" ถ้าใช้ไม่ได้จะบอกสาเหตุจริง แทนข้อความ \"เชื่อมต่อไม่สำเร็จ\" ลอย ๆ (รองรับกรณี AI ตอบช้า/timeout ด้วย)"
 }
