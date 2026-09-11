@@ -1,7 +1,7 @@
 {
-  "version": "1.41",
-  "zip": "update-1.41.zip",
-  "sha256": "35e62d0b61780d59b363b23506f31523b5574bf0c909de0e9e6ccb61a0e465e2",
-  "sig": "o6hsOb9WZ/XvY89Y6n3XEf5gMEVs7rTvpH9oO1Xh0F5gKO4en/FokXWa8MEbPjz3bPENM9NTWyaZ2WqhwoLcCA==",
-  "notes": "ซับบรรทัดยาวอยู่บรรทัดเดียว ไม่ตกบรรทัด/ไม่ตัดกลางคำ (ย่อขนาดให้พอดีจออัตโนมัติ) และตอน \"ให้ AI ร่างบท/สร้างเสียง\" ถ้าใช้ไม่ได้จะบอกสาเหตุจริง แทนข้อความ \"เชื่อมต่อไม่สำเร็จ\" ลอย ๆ (รองรับกรณี AI ตอบช้า/timeout ด้วย)"
+  "version": "1.42",
+  "zip": "update-1.42.zip",
+  "sha256": "1e4d1a4aff7959476885a244f6d72239afc23b411347fbed6a35795c2dcb1721",
+  "sig": "NHFSSsi0f9wvonf+xJuuO0hRSdBBsyA+YVUXouRQdoQPUo4xQWumnesTaTY2FBeXLVIjA66O7+gpcJLfEiQsAA==",
+  "notes": "ซับที่ได้จาก AI (ถอดเสียง/ร่างบท) ตัดคำไทยตรงตามคำ ไม่แยกคำคนละบรรทัดอีก เช่น \"ด้านล่าง\" / \"สั่งเลย\" จะอยู่ครบทั้งคำ (เพิ่มตัวแบ่งคำไทยไว้ในแอป)"
 }
