@@ -1,7 +1,7 @@
 {
-  "version": "1.43",
-  "zip": "update-1.43.zip",
-  "sha256": "4295c36463de13f7bf7deab085caef362ee4a45895297f2777b115faaac68a22",
-  "sig": "fdWPvaq34fjuXpmov46WEXGT7gPqx6EyMVL0tW8iHwv6RYIdw7ernW+cGH/OgtpyBEA+PdgZNpE/YWRqShiOBQ==",
-  "notes": "ฟอนต์ซับทุกตัวเดินทางมากับอัปเดตแล้ว — แก้กรณีเปลี่ยนฟอนต์แล้ว พรีวิวเปลี่ยนแต่ตอน Export ไม่เปลี่ยน (เครื่องที่ติดตั้งเวอร์ชันเก่ามาก อาจไม่มีไฟล์ฟอนต์ครบ ตอนนี้อัปเดตแล้วได้ครบทุกฟอนต์)"
+  "version": "1.44",
+  "zip": "update-1.44.zip",
+  "sha256": "5fde2647683f6f3916f52959f8d7dba271a721b980dbf52810a91ffec25bad40",
+  "sig": "GM4ruuSYYEs47hdl3slEk5H+gp11gsXVsuTXsvNnHZwrm4f0mzsNqr2Mb69XiyHveHbs/cdEc0D6uviuFytRAg==",
+  "notes": "ย้ายแท็บ \"เสียงพากย์ AI\" มาไว้หน้าสุด (เปิดมาเจอก่อน) และเพิ่มตัวแสดง \"วันนี้ใช้ AI ไปกี่ครั้ง\" (ร่างบท/ถอดเสียง/สร้างเสียง) ในแท็บเสียงพากย์ AI"
 }
